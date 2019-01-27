@@ -22,5 +22,6 @@
 - [纸牌游戏 Card game ](ch2/card-game.md)
 - [烧绳子 Burning ropes](ch2/burning-ropes.md)
 - [Defective ball](ch2/defective-ball.md)
+- [Trailing zeros](ch2/trailing-zeros.md)
 
 ## 2.3 Thinking Out of the Box

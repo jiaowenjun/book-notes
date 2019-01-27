@@ -19,5 +19,6 @@
 
 - [最快过河问题 River crossing](ch2/river-crossing.md)
 - [生日问题 Birthday problem](ch2/birthday-problem.md)
+- [纸牌游戏 Card game ](ch2/card-game.md)
 
 ## 2.3 Thinking Out of the Box

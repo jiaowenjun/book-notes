@@ -13,6 +13,7 @@
 开始时，不需要确定的计划，只需解决简单版问题，然后分析推理过程
 
 - [疯狂的海盗问题 Screwy pirates](ch2/screwy-pirates.md)
+- [老虎吃羊问题 Tiger and sheep](ch2/tiger-and-sheep.md)
 
 ## 2.2 逻辑推理 Logic Reasoning
 

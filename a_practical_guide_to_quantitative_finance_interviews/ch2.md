@@ -17,4 +17,6 @@
 
 ## 2.2 逻辑推理 Logic Reasoning
 
+- [最快过河问题 River crossing](ch2/river-crossing.md)
+
 ## 2.3 Thinking Out of the Box

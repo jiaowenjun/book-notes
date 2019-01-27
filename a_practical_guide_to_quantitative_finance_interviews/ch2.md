@@ -26,3 +26,5 @@
 - [Horse race](ch2/horse-race.md)
 
 ## 2.3 Thinking Out of the Box
+
+- [Box packing](ch2/box-packing.md)

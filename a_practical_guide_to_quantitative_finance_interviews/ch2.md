@@ -28,3 +28,4 @@
 ## 2.3 Thinking Out of the Box
 
 - [Box packing](ch2/box-packing.md)
+- [Calendar cubes](ch2/calendar-cubes.md)

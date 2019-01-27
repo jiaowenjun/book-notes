@@ -23,5 +23,6 @@
 - [烧绳子 Burning ropes](ch2/burning-ropes.md)
 - [Defective ball](ch2/defective-ball.md)
 - [Trailing zeros](ch2/trailing-zeros.md)
+- [Horse race](ch2/horse-race.md)
 
 ## 2.3 Thinking Out of the Box

@@ -12,20 +12,20 @@
 2. 从最简单的子问题开始，逐步增加复杂度
 开始时，不需要确定的计划，只需解决简单版问题，然后分析推理过程
 
-- [疯狂的海盗问题 Screwy pirates](ch2/screwy-pirates.md)
-- [老虎吃羊问题 Tiger and sheep](ch2/tiger-and-sheep.md)
+- [疯狂的海盗问题 Screwy pirates](screwy-pirates.md)
+- [老虎吃羊问题 Tiger and sheep](tiger-and-sheep.md)
 
 ## 2.2 逻辑推理 Logic Reasoning
 
-- [最快过河问题 River crossing](ch2/river-crossing.md)
-- [生日问题 Birthday problem](ch2/birthday-problem.md)
-- [纸牌游戏 Card game ](ch2/card-game.md)
-- [烧绳子 Burning ropes](ch2/burning-ropes.md)
-- [Defective ball](ch2/defective-ball.md)
-- [Trailing zeros](ch2/trailing-zeros.md)
-- [Horse race](ch2/horse-race.md)
+- [最快过河问题 River crossing](river-crossing.md)
+- [生日问题 Birthday problem](birthday-problem.md)
+- [纸牌游戏 Card game ](card-game.md)
+- [烧绳子 Burning ropes](burning-ropes.md)
+- [Defective ball](defective-ball.md)
+- [Trailing zeros](trailing-zeros.md)
+- [Horse race](horse-race.md)
 
 ## 2.3 Thinking Out of the Box
 
-- [Box packing](ch2/box-packing.md)
-- [Calendar cubes](ch2/calendar-cubes.md)
+- [Box packing](box-packing.md)
+- [Calendar cubes](calendar-cubes.md)
